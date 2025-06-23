@@ -7,7 +7,12 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-janganure-405410371/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanjanganure12@gmail.com)
+<a href="https://www.linkedin.com/in/darshan-janganure-405410371/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="32">
+</a>
+<a href="mailto:darshanjanganure12@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="32">
+</a>
 
 
 # 💻 Tech Stack:
